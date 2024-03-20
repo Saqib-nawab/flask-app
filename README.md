@@ -1,2 +1,2 @@
-# flask-app
-this is a Flask tutorial app
+# jovian-careers-website
+A careers website for Jovian
